@@ -57,6 +57,9 @@
   text-transform: uppercase;
   color: #7B8BAD;
 }
+.hero .hero__title .hero__btn__group a:hover {
+  color: #162542;
+}
 .hero .hero__image {
   display: flex;
 }
