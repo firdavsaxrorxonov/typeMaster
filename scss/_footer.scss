@@ -1,0 +1,17 @@
+.footer {
+  padding-top: 128px;
+
+  .footer__title {
+    display: block;
+    text-align: center;
+    color: $text-color;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+
+    .footer__bold__title {
+      font-weight: 700;
+    }
+  }
+}
